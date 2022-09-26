@@ -1,5 +1,5 @@
 # Project Information
-[![Travis (.com)](https://img.shields.io/travis/com/abhinavk99/jikanpy?style=flat-square)](https://travis-ci.com/abhinavk99/jikanpy)
+[![Travis.com)](https://img.shields.io/travis/com/abhinavk99/jikanpy?style=flat-square)](https://travis-ci.com/abhinavk99/jikanpy)
 [![Codecov](https://img.shields.io/codecov/c/github/abhinavk99/jikanpy.svg?style=flat-square)](https://codecov.io/gh/abhinavk99/jikanpy/)
 ![PyPi downloads](https://img.shields.io/pypi/dm/jikanpy?style=flat-square)
 [![Documentation](https://readthedocs.org/projects/jikanpy/badge/?version=latest&style=flat-square)](https://jikanpy.readthedocs.io/en/latest/)
