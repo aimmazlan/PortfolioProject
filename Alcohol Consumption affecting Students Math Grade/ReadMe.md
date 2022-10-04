@@ -18,9 +18,9 @@ Analytical analysis have been conducted using dataset for the schools, and this 
 
 ```shell
 
-A) Classification Using `Naïve Bayes` to predict whether student wants to attend a higher education 
+A) `Naïve Bayes` classification model to predict whether student wants to attend a higher education 
 
-B) `Multiple Linear Regression` to Predict final grade(G3) based on first(G1) and second(G2) grade
+B) `Multiple Linear Regression` model to predict final grade(G3) based on first(G1) and second(G2) grade
 
 ```
 
