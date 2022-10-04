@@ -13,7 +13,7 @@ understand more about their own employees.
 This study is to analyze the above dataset for the company, to conduct the below tasks using Data Science and skill in Machine Learning:
 ```shell
 
-Attrition Prediction Model Using Naïve Bayes Classifier
+Attrition Prediction Model Using `Naïve Bayes` Classifier
 
 ```
 
